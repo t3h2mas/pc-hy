@@ -30,4 +30,4 @@
     (raw_input "Rating")
     (raw_input "Ripped [y/n]")))
 
-
+; TODO: y-or-n-p function. then add-cds. test.
