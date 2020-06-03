@@ -1,4 +1,4 @@
 astor==0.4
 hy==0.10.1
-rply==0.7.3
+rply==0.7.4
 wsgiref==0.1.2
